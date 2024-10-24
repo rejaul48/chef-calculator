@@ -2,20 +2,9 @@
 
 **Chef Calculator** is a simple and intuitive web application designed for chefs and food enthusiasts to easily calculate recipe nutrition, portion sizes, and calories. Built with React and Tailwind CSS, it offers a responsive interface for mobile and desktop, helping users manage recipe data efficiently. Perfect for both home cooks and professionals!
 
-## Table of Contents
-
-1. [Overview](#overview)
-2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Features](#features)
-5. [Technologies](#technologies)
-6. [Contributing](#contributing)
-7. [License](#license)
-8. [Contact](#contact)
-
 ## Overview
 
-An overview of your project, describing the context and goals.
+The Chef Calculator simplifies complex calculations for recipes, helping users estimate nutritional values and portion sizes with ease. It’s designed to be mobile-responsive, making it accessible from any device. Perfect for both professional kitchens and home cooking!
 
 ## Installation
 
@@ -30,3 +19,11 @@ cd your_repository
 
 # Install dependencies
 npm install
+
+```
+## Feature
+*🧑‍🍳 Calculate recipe nutrition and calories.
+*⚙️ Easily adjust portion sizes.
+*📱 Responsive design for mobile and desktop.
+*🛠 Simple and intuitive user interface.
+
