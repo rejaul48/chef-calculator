@@ -22,10 +22,10 @@ npm install
 
 ```
 ## Feature
-🧑‍🍳 Calculate recipe nutrition and calories. <br>
-⚙️ Easily adjust portion sizes.<br>
+🧑‍🍳 Calculate recipe cooking times and calories. <br>
 📱 Responsive design for mobile and desktop.<br>
 🛠 Simple and intuitive user interface.<br>
+⚙️ Easily customizable.<br>
 
 ## Technologys
 🔵 HTML for the basic structure. <br>
