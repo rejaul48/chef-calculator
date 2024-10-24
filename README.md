@@ -33,5 +33,8 @@ npm install
 🔵 React for the frontend framework. <br>
 🔵 JavaScript for logic and interactivity. <br>
 
+## Contact me
+**Email**: [rejaulislammr25@gmail.com](mailto:rejaulislammr25@gmail.com)
+
 
 
