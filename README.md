@@ -12,7 +12,7 @@ Step-by-step instructions to set up the project locally.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your_username/your_repository.git
+https://github.com/rejaul48/chef-calculator.git
 
 # Navigate to the project directory
 cd your_repository
@@ -32,4 +32,6 @@ npm install
 🔵 CSS and Tailwind CSS for styling and responsiveness. <br>
 🔵 React for the frontend framework. <br>
 🔵 JavaScript for logic and interactivity. <br>
+
+
 
