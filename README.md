@@ -1,6 +1,6 @@
-# Project Title
+# Chef calculator with simple react app
 
-A brief description of what this project does and its purpose.
+**Chef Calculator** is a simple and intuitive web application designed for chefs and food enthusiasts to easily calculate recipe nutrition, portion sizes, and calories. Built with React and Tailwind CSS, it offers a responsive interface for mobile and desktop, helping users manage recipe data efficiently. Perfect for both home cooks and professionals!
 
 ## Table of Contents
 
