@@ -1,0 +1,98 @@
+[
+    {
+        "id": "1",
+        "food_img": "https://i.ibb.co.com/wMDzJ0Z/natalia-gusakova-isjs-R5-XB3p-A-unsplash.jpg",
+        "food_name": "Spaghetti Bolognese",
+        "food_description": "A classic Italian pasta dish made with a rich, meaty tomato sauce.",
+        "ingredients": [
+            "spaghetti",
+            "ground beef",
+            "tomato sauce",
+            "onion",
+            "garlic",
+            "olive oil"
+        ],
+        "cooking_time": 30,
+        "total_calories": 600
+    },
+    {
+        "id": "2",
+        "food_img": "https://i.ibb.co.com/C6tSZJ2/p-s-MRl-Jfsmz77-U-unsplash.jpg",
+        "food_name": "Grilled Chicken Salad",
+        "food_description": "A healthy, fresh salad with grilled chicken, greens, and a tangy vinaigrette.",
+        "ingredients": [
+            "grilled chicken breast",
+            "mixed greens",
+            "cherry tomatoes",
+            "cucumber",
+            "olive oil",
+            "balsamic vinegar"
+        ],
+        "cooking_time": 20,
+        "total_calories": 350
+    },
+    {
+        "id": "3",
+        "food_img": "https://i.ibb.co.com/vdMHq85/sergey-kotenev-s-V8-Cl0-3-Uc-Y-unsplash.jpg",
+        "food_name": "Beef Tacos",
+        "food_description": "Mexican-style beef tacos with seasoned ground beef, fresh vegetables, and soft tortillas.",
+        "ingredients": [
+            "ground beef",
+            "taco seasoning",
+            "tortillas",
+            "lettuce",
+            "tomatoes",
+            "cheddar cheese"
+        ],
+        "cooking_time": 25,
+        "total_calories": 450
+    },
+    {
+        "id": "4",
+        "food_img": "https://i.ibb.co.com/dKRjzF8/matt-seymour-WLYF9-Bm-FEU-unsplash.jpg",
+        "food_name": "Vegetable Stir-fry",
+        "food_description": "A quick and easy stir-fry made with mixed vegetables and soy sauce, served over rice.",
+        "ingredients": [
+            "broccoli",
+            "carrots",
+            "bell peppers",
+            "soy sauce",
+            "garlic",
+            "sesame oil"
+        ],
+        "cooking_time": 15,
+        "total_calories": 300
+    },
+    {
+        "id": "5",
+        "food_img": "https://i.ibb.co.com/0tKVfDm/amirali-mirhashemian-sc5s-TPMr-Vfk-unsplash.jpg",
+        "food_name": "Margherita Pizza",
+        "food_description": "A traditional Italian pizza topped with fresh mozzarella, tomatoes, and basil.",
+        "ingredients": [
+            "pizza dough",
+            "tomato sauce",
+            "fresh mozzarella",
+            "basil",
+            "olive oil",
+            "garlic"
+        ],
+        "cooking_time": 20,
+        "total_calories": 700
+    },
+    {
+        "id": "6",
+        "food_img": "https://i.ibb.co.com/FX54W3D/ivan-torres-MQUqbmsz-GGM-unsplash.jpg",
+        "food_name": "Lentil Soup",
+        "food_description": "A hearty and nutritious soup made with lentils, vegetables, and spices.",
+        "ingredients": [
+            "lentils",
+            "carrots",
+            "celery",
+            "onion",
+            "garlic",
+            "vegetable broth"
+        ],
+        "cooking_time": 40,
+        "total_calories": 250
+    }
+]
