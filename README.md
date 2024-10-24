@@ -27,3 +27,9 @@ npm install
 📱 Responsive design for mobile and desktop.<br>
 🛠 Simple and intuitive user interface.<br>
 
+## Technologys
+🔵 HTML for the basic structure. <br>
+🔵 CSS and Tailwind CSS for styling and responsiveness. <br>
+🔵 React for the frontend framework. <br>
+🔵 JavaScript for logic and interactivity. <br>
+
