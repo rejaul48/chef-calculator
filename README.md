@@ -22,8 +22,8 @@ npm install
 
 ```
 ## Feature
-*🧑‍🍳 Calculate recipe nutrition and calories.
-*⚙️ Easily adjust portion sizes.
-*📱 Responsive design for mobile and desktop.
-*🛠 Simple and intuitive user interface.
+🧑‍🍳 Calculate recipe nutrition and calories. <br>
+⚙️ Easily adjust portion sizes.<br>
+📱 Responsive design for mobile and desktop.<br>
+🛠 Simple and intuitive user interface.<br>
 
